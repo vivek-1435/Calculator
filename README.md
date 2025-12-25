@@ -27,8 +27,8 @@ Plaintext
 🔄 Git Workflow
 This project was developed using feature branches to ensure a clean main branch:
 
-main: Production-ready code.
+1. main: Production-ready code.
 
-styling: Dedicated branch for CSS development.
+2. styling: Dedicated branch for CSS development.
 
-scripting: Dedicated branch for JavaScript logic.
+3. scripting: Dedicated branch for JavaScript logic.
